@@ -1,4 +1,4 @@
-# Car-Price-Prediction
+# Car Price Prediction
 
 Note: The coding part of the project was equally shared and contributed by all the 3 team members stated below
 1. Venkataraman B (20BCE1499)
