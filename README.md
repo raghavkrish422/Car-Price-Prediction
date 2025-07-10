@@ -89,7 +89,7 @@ There are no missing values in the dataset and also all the columns in the datas
 
 
 # Building the suitable model and evaluating it
-After deciding upon the data preparation, we finally come to the model building part wherein the final model is built using 6 different features as shown in the figure and we get the value of r2-squared to be 0.8851 which tends the model to have accuracy of 88.51%
+After deciding upon the data preparation, we finally come to the model building part wherein the final model is built using 6 different features as shown in the figure and we get the value of r2-squared to be 0.8851, which tends the model to have accuracy of 88.51%
 ![image](https://github.com/user-attachments/assets/0908f261-5fba-4442-a93f-eea60b450a2c)
 
 # Evaluating the final model
